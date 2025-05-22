@@ -1,5 +1,5 @@
 ## Kataray  
-CSS Event Organizer + Rep || Undergrad Student Rep for School of CS || <br>
+CSS Head of Communications || Undergrad Student Rep for School of CS || <br>
 Co-Owner of LumaMC || Developer for WiCS ||
 
 <a href="https://github.com/UWinWiCS" target="_blank">
