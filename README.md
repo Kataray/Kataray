@@ -1,6 +1,5 @@
 ## Kataray  
-CSS Head of Communications || Undergrad Student Rep for School of CS || <br>
-Co-Owner of LumaMC || Developer for WiCS ||
+CSS Head of Communications || Co-Owner of LumaMC || Developer @ Toonrush and WiCS
 
 <a href="https://github.com/UWinWiCS" target="_blank">
   <img src="https://github.com/user-attachments/assets/4fc93a8d-e45a-4b38-910f-c93f2af3fb5e" alt="WCISLogo" width="30" style="display:inline; margin-right: 10px;">
