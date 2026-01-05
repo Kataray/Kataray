@@ -10,5 +10,3 @@ CSS Head of Communications || Co-Owner of LumaMC || Developer @ Toonrush and WiC
 <a href="https://css.uwindsor.ca/" target="_blank">
   <img src="https://github.com/user-attachments/assets/b2bafb23-9cd3-4f1b-a885-163726a661ee" alt="CSSlogo" width="30" style="display:inline; margin-right: 10px;">
 </a>
-
-![Kataray's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kataray&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10)
